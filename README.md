@@ -45,3 +45,8 @@
     - [Sandip Nayak](https://github.com/SandipNayak)
   - Links :
     - Https://GitHub.com/obli99/wle
+- **2048 Game** - The Game of Intelluctuals to score more 2048 tiles.
+  - Maintainers :
+    - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
+  - Links :
+    - https://github.com/Sudeep25022000/2048-The-Game-of-Intellectuals
